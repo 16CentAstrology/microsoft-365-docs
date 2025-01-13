@@ -22,7 +22,7 @@ description: Learn about the capabilities, services, and features in Microsoft S
 
 <!---</br>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RW15yuU] 
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=2d175508-cfa8-4258-b595-3af948bb7559] 
 
 </br>--->
 

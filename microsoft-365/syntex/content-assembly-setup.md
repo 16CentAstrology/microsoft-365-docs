@@ -5,7 +5,7 @@ author: chuckedmonson
 manager: jtremper
 audience: admin
 ms.reviewer: anrasto, shrganguly
-ms.date: 09/26/2024
+ms.date: 01/13/2025
 ms.topic: conceptual
 ms.service: microsoft-syntex
 ms.subservice: syntex-content-intelligence
@@ -43,12 +43,14 @@ By default, content assembly is available for libraries on all SharePoint sites.
 
 1. In the Microsoft 365 admin center, select <a href="https://go.microsoft.com/fwlink/p/?linkid=2171997" target="_blank">**Setup**</a>.
 
-2. Under **Files and content**, select **Automate content processes with Syntex**.
+2. Under **Billing and licenses**, select **Activate pay-as-you-go services**.
 
-3. On the **Automate content processes with Syntex** page, select **Go to Syntex settings**.
+3. On the **Activate pay-as-you-go services** page, select **Get started**.
 
-4. On the Syntex page, in the **Document & image services** section, select **Content assembly**.
+4. On the **Pay-as-you-go services** page, select the **Settings** tab, and then select **Syntex services**.
 
-5. On the **Content assembly** panel, select **Edit**.
+5. On the Syntex page, in the **Document & image services** section, select **Content assembly**.
 
-6 On the **Which SharePoint sites should show the option to create templates and generate documents**, select **No libraries**, and then select **Save**.
+6. On the **Content assembly** panel, select **Edit**.
+
+7. On the **Which SharePoint sites should show the option to create templates and generate documents**, select **No libraries**, and then select **Save**.

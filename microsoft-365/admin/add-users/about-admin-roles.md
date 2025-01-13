@@ -39,7 +39,7 @@ Microsoft 365 or Office 365 subscription comes with a set of admin roles that yo
 
 Check out this video and others on our [YouTube channel](https://go.microsoft.com/fwlink/?linkid=2198028).
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1SRc0]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=09f25c9c-6c0b-4e0d-85c6-acd0964d39d9]
 
 1. While signed into Microsoft 365, select the app launcher. If you see the Admin button, then you're an admin.
 1. Select **Admin** to go to the Microsoft 365 admin center.

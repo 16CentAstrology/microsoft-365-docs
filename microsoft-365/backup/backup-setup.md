@@ -5,7 +5,7 @@ author: chuckedmonson
 manager: jtremper
 audience: admin
 ms.reviewer: sreelakshmi
-ms.date: 09/26/2024
+ms.date: 01/13/2025
 ms.topic: conceptual
 ms.service: microsoft-365-backup
 ms.custom: backup
@@ -36,7 +36,7 @@ Once you have the information on this list, you're ready to [set up pay-as-you-g
 
 </br>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RW1k4TO]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=0f61cfb9-425b-482a-aff2-7b21b3c5767d]
 
 </br>
 
@@ -50,17 +50,19 @@ You must be a [SharePoint Administrator](/entra/identity/role-based-access-contr
 
 To turn on Microsoft 365 Backup, you need to go to the Microsoft 365 admin center.
 
-1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home), select **Setup**.
+1. In the Microsoft 365 admin center, select <a href="https://go.microsoft.com/fwlink/p/?linkid=2171997" target="_blank">**Setup**</a>.
 
-2. Under **Files and content**, select **Automate content processes with Syntex**.
+2. Under **Billing and licenses**, select **Activate pay-as-you-go services**.
 
-3. On the **Automate content processes with Syntex** page, select **Go to Syntex settings**.
+3. On the **Activate pay-as-you-go services** page, select **Get started**.
 
-4. On the Syntex page, in the **Syntex services for** section, select **Storage**. From the list of products, select **Backup**.
+4. On the **Pay-as-you-go services** page, select the **Settings** tab, and then select **Syntex services**.
 
-5. On the **Backup** panel, select **Turn on**.
+5. On the Syntex page, in the **Storage** section, select **Backup**.
 
-6. On **Turn on Backup** panel, review the applicable [terms of service for Microsoft 365](https://www.microsoft.com/licensing/terms/product/ForOnlineServices/all), and then select **Save**.
+6. On the **Backup** panel, select **Turn on**.
+
+7. On **Turn on Backup** panel, review the applicable [terms of service for Microsoft 365](https://www.microsoft.com/licensing/terms/product/ForOnlineServices/all), and then select **Save**.
 <!---
     ![Screenshot of the Turn on Backup panel and the Confirm button.](../media/m365-backup/backup-setup-turn-on.png)
 --->

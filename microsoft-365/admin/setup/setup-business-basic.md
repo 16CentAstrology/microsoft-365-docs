@@ -40,7 +40,7 @@ Check out all of our small business content on [Small business help & learning](
 
 ## Watch: Set up Microsoft 365 Business Basic
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4vk3W]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=af2891e6-92fd-4e0a-a502-3dcbdde4d81e]
 
 If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](../../business-video/index.yml).
 
@@ -105,7 +105,7 @@ To set up services, you have to update some records at your DNS host or domain r
 
 ## Watch: Set up business email with a new domain
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RWyVVA]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=e06209e9-487f-4f5c-be79-d658aca544be]
 
 ## Steps: Set up business email with a new domain
 

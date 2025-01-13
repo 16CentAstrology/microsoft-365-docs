@@ -25,7 +25,7 @@ description: Learn how to use AI Builder to create structured or freeform docume
 
 <!---</br>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RW15YNo]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=43234179-fd0c-47c0-96a9-0fd6bc76163b]
 
 </br>--->
 
@@ -64,5 +64,3 @@ If you need it enabled on your document library, contact your Microsoft 365 admi
 ## Requirements and limitations
 
 For information about requirements to consider when choosing this model, see [Requirements and limitations for models in Microsoft Syntex](requirements-and-limitations.md#structured-document-processing).
-
-

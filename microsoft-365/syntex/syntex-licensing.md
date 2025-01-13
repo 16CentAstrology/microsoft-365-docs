@@ -49,9 +49,15 @@ The following pay-as-you-go services are currently available:
 - Taxonomy tagging
 - Unstructured document processing
 
+**Video services**
+- Video translation
+
 **Storage services**
 - Microsoft 365 Archive
 - Microsoft 365 Backup
+
+**Apps**
+- SharePoint Embedded
 
 More services will be added as they become available.
 

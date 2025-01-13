@@ -22,7 +22,7 @@ description: Learn how to apply a published a model to a SharePoint document lib
 
 </br>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4CSoL]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=60288944-7a6c-4331-a1ae-4b05113f4dd0]
 
 </br>
 
@@ -134,5 +134,3 @@ To run the flow:
 2. On the **Create a flow** panel, select **Send an email after Syntex processes a file**.
 
     ![Screenshot showing the Create a flow panel and flow option highlighted.](../media/content-understanding/integrate-create-flow.png) 
-
-

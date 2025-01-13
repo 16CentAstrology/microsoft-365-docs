@@ -21,7 +21,7 @@ Experience insights is optimized for organizations with 2000 plus seats. We are 
 
 ## Watch: Experience insights dashboard overview
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RW16N2s?autoplay=false]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=e157135d-859f-4b5f-aef4-8fb69496de9b]
 
 ## Go to the Experience insights dashboard
 

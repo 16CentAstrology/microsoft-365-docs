@@ -50,7 +50,7 @@ You must be at least a Billing Administrator to do the steps described in this a
 
 Check out this video and others on our [YouTube channel](https://go.microsoft.com/fwlink/?linkid=2209539).
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE53wxS?autoplay=false]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=0c9c9a90-8aab-4c0f-b661-935deeb23ccc]
 
 ## How often and when am I billed?
 

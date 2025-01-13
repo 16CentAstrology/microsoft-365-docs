@@ -25,7 +25,7 @@ description: Learn about the unstructured document processing model in Microsoft
 
 <!---</br>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4CSu7]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=0362ab91-3b79-47f4-9930-9a706d55b97d]
 
 </br>--->
 
@@ -59,5 +59,3 @@ After publishing your model, use the content center to apply it to any SharePoin
 ## Requirements and limitations
 
 For information about requirements to consider when choosing this model, see [Requirements and limitations for models in Microsoft Syntex](requirements-and-limitations.md#unstructured-document-processing).
-
-

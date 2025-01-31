@@ -17,6 +17,7 @@ ms.collection:
 ms.custom: 
 - VSBFY23
 - AdminSurgePortfolio
+- campaignIDs-batch1
 description: "Migrate your Outlook, OneDrive and Teams data to Microsoft 365 Business Standard"
 ---
 

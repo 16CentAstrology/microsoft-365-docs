@@ -1,11 +1,12 @@
 ---
 title: What is Microsoft 365 Copilot?
+description: Learn about what Microsoft 365 Copilot is and the common Copilot features in Microsoft 365 apps, like Word, Excel, PowerPoint, and Teams. This article answers common questions about Copilot, including what is Copilot, how Copilot works, and the benefits of using Copilot. What is M365 Copilot?
 f1.keywords:
 - NOCSH
 ms.author: camillepack
 author: camillepack
 manager: scotv
-ms.date: 12/05/2024
+ms.date: 01/15/2025
 audience: Admin
 ms.reviewer: mandia
 ms.topic: overview
@@ -16,7 +17,6 @@ ms.collection:
 - m365copilot
 - magic-ai-copilot
 - essentials-overview
-description: Learn about what Microsoft 365 Copilot is and the common Copilot features in Microsoft 365 apps, like Word, Excel, PowerPoint, and Teams.
 ms.custom: [copilot-learning-hub]
 appliesto:
   - ✅ Microsoft 365 Copilot
@@ -58,11 +58,11 @@ Apps like Word, Excel, PowerPoint, Outlook, Teams, and Loop work with Copilot to
 
 For more features, see [Copilot features in Microsoft 365 apps](#copilot-features-in-microsoft-365-apps) (in this article).
 
-✅ **Graph-grounded chat**
+✅ **Microsoft 365 Copilot Chat**
 
-With Graph-grounded chat, you can draft content, review what you missed, and get answers to questions using open-ended prompts. This information is securely grounded in your work data.
+With Microsoft 365 Copilot Chat, you can draft content, review what you missed, and get answers to questions using open-ended prompts. This information is securely grounded in your work data.
 
-You can use Graph-grounded Copilot in Microsoft Teams, at [Microsoft365.com](https://www.microsoft365.com/), and at [copilot.microsoft.com](https://copilot.microsoft.com/).
+You can use Microsoft 365 Copilot Chat in Microsoft Teams, at [Microsoft365.com](https://www.microsoft365.com/), and at [copilot.microsoft.com](https://copilot.microsoft.com/).
 
 ✅ **Microsoft Graph**
 

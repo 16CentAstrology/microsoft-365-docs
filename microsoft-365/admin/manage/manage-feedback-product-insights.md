@@ -36,7 +36,7 @@ We use NPS surveys and feedback from your end-users to provide you with insights
 
 ## Watch: NPS feedback and insights
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RWWSNo]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=a755fdb6-078b-4244-9478-a8cbd3c22f65]
 
 ## Before you begin
 

@@ -49,13 +49,19 @@ The following pay-as-you-go services are currently available:
 - Taxonomy tagging
 - Unstructured document processing
 
+**Video services**
+- Video translation
+
 **Storage services**
 - Microsoft 365 Archive
 - Microsoft 365 Backup
 
+**Apps**
+- SharePoint Embedded
+
 More services will be added as they become available.
 
-### Additional features
+### Included features
 
 Pay-as-you-go licensing includes access to additional content management features. You won't be charged on a pay-as-you-go basis when you use these features. These features include:
 

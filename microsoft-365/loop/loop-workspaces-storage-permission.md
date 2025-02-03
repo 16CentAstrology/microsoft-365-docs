@@ -6,13 +6,14 @@ manager: jtremper
 audience: Admin
 ms.topic: conceptual
 ms.service: loop
-ms.reviewer: michalbr
+ms.reviewer: michalbr, dancost
 ms.date: 01/08/2025
 ms.localizationpriority: medium
 search.appverid: MET150
 ms.collection: 
 - M365-collaboration
 - essentials-compliance
+- magic-ai-copilot
 description: Learn about Loop workspaces storage and permissions in the Microsoft 365 ecosystem.
 f1.keywords:
 - CSH
@@ -35,7 +36,7 @@ Where the Loop content was originally created determines its storage location:
 |-----|-----|-----|-----|
 |Loop app|✔️in Loop workspace|||
 |Copilot Pages|✔️in Loop workspace|||
-|Teams channel meeting||✔️in Channel folder||
+|Teams channel meeting||✔️in 📁`Meetings`||
 |Teams channel||✔️in Channel folder||
 |Teams private chat|||✔️in 📁`Microsoft Teams Chat files`|
 |Teams private meeting|||✔️in 📁`Meetings`|

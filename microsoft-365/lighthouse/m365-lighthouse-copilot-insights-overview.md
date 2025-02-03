@@ -15,6 +15,7 @@ ms.collection:
 - scotvorg
 - M365-subscription-management
 - Adm_O365
+- magic-ai-copilot
 ms.custom:
 - AdminSurgePortfolib
 - M365-Lighthouse                         

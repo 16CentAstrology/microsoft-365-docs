@@ -41,7 +41,7 @@ When you delete a user, the account becomes inactive for approximately 30 days. 
 
 ## Watch: Delete a former employee's user account
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfR]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=f1196f82-611c-41c8-8cc1-98e70f591d5d]
 
 If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](../../business-video/index.yml).
 

@@ -39,7 +39,7 @@ When you buy a Microsoft 365 for business subscription, you select a billing fre
 
     [!INCLUDE [ga-roles-limitation](../../includes/ga-roles-limitation.md)]
 
-- If you have a Microsoft Customer Agreement (MCA) billing account type, you can only change the billing frequency when you buy, upgrade, or renew a subscription.
+- If you have a Microsoft Customer Agreement (MCA) billing account type, you can only change the billing frequency when you buy or upgrade a subscription.
 
 ## Change your billing frequency
 

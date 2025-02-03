@@ -1,10 +1,10 @@
 ---
-title: Set up and manage prebuilt document processing
+title: Set up and manage prebuilt document processing for SharePoint
 ms.author: chucked
 author: chuckedmonson
 manager: jtremper
 ms.reviewer: ssquires
-ms.date: 11/22/2024
+ms.date: 01/13/2025
 audience: admin
 ms.topic: conceptual
 ms.custom: setup
@@ -18,9 +18,9 @@ ms.localizationpriority:  medium
 description: Learn how to set up and manage prebuilt document processing in SharePoint.
 ---
 
-# Set up and manage prebuilt document processing in Microsoft Syntex
+# Set up and manage prebuilt document processing for SharePoint
 
-The prebuilt document processing service for Microsoft Syntex is set up in the Microsoft 365 admin center.
+The prebuilt document processing service for SharePoint is set up in the Microsoft 365 admin center.
 
 ## Prerequisites
 
@@ -44,13 +44,15 @@ By default, prebuilt document processing is turned on for libraries in all Share
 
 1. In the Microsoft 365 admin center, select <a href="https://go.microsoft.com/fwlink/p/?linkid=2171997" target="_blank">**Setup**</a>.
 
-2. Under **Files and content**, select **Automate content processes with Syntex**.
+2. Under **Billing and licenses**, select **Activate pay-as-you-go services**.
 
-3. On the **Automate content processes with Syntex** page, select **Go to Syntex settings**.
+3. On the **Activate pay-as-you-go services** page, select **Get started**.
 
-4. On the Syntex page, in the **Document & image services** section, select **Prebuilt document processing**.
+4. On the **Pay-as-you-go services** page, select the **Settings** tab, and then select **Syntex services**.
 
-5. On the **Prebuilt document processing** panel:
+5. On the Syntex page, in the **Document & image services** section, select **Prebuilt document processing**.
+
+6. On the **Prebuilt document processing** panel:
 
     a. On the **Sites** tab, in the **Sites where models can be used** section, select **Edit**.
 
@@ -65,7 +67,7 @@ By default, prebuilt document processing is turned on for libraries in all Share
     > [!NOTE]
     > For multi-geo environments, the **No sites** and **Selected sites** settings apply only to the primary geo of multi-geo tenants. If you want to restrict or add sites in non-primary geos, contact Microsoft support.
 
-6. Select **Save**.
+7. Select **Save**.
 
 ## Turn off prebuilt document processing
 

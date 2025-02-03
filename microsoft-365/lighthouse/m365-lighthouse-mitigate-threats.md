@@ -32,7 +32,12 @@ Microsoft 365 Lighthouse lets you investigate and mitigate threats across all yo
 
 - Users must be running Microsoft Defender Antivirus (included with Windows). Lighthouse does not support non-Microsoft antivirus software. For more information, see [Turn on Microsoft Defender Antivirus](/mem/intune/user-help/turn-on-defender-windows).
 
-- You must be a Global Administrator in the partner tenant that you're signing in to.
+- You must hold at least one of the following Microsoft Entra roles for the customer tenants whose data you want to read:
+    - Security Reader
+    - Security Operator
+    - Intune Administrator
+    - Global Reader
+    - Helpdesk Administrator
 
 ## Investigate active threats
 

@@ -34,7 +34,7 @@ For more information about the different types of alerts you can create, see [Ov
 
 ## Before you begin
 
-You must be a Global Administrator to create and manage alert rules.
+You must hold the Administrator role in Lighthouse to create and manage alert rules.
 
 ## Create an alert rule
 

@@ -5,7 +5,7 @@ ms.author: deniseb
 author: denisebmsft
 manager: dansimp
 ms.reviewer: georgerozo
-ms.date: 10/24/2025
+ms.date: 11/06/2025
 ms.update-cycle: 180-days
 audience: Admin
 ms.topic: concept-article
@@ -160,3 +160,8 @@ Microsoft Purview provides tools to help you secure and govern your data for use
 - [Microsoft Purview data security and compliance protections for generative AI apps](/purview/ai-microsoft-purview)
 
 Download and review our scenario-based deployment models, presentations, and guides. These resources describe how to rapidly implement a secure-by-default configuration, address oversharing concerns, and prevent data leak to shadow AI. See [Notes from engineering: Microsoft Purview deployment models](https://aka.ms/PurviewBlueprints).
+
+## See also
+
+- [Frequently asked questions about Copilot Chat](/copilot/faq)
+- [Help for end users: Get started with Microsoft 365 Copilot Chat](https://support.microsoft.com/en-us/topic/get-started-with-microsoft-365-copilot-chat-5b00a52d-7296-48ee-b938-b95b7209f737)

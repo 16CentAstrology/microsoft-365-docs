@@ -28,7 +28,7 @@ ms.custom:
 - business_assist
 search.appverid:
 - MET150
-ms.date: 09/17/2025
+ms.date: 11/06/2025
 ---
 
 
@@ -36,12 +36,9 @@ ms.date: 09/17/2025
 
 Each person in your organization needs a user account before they can sign in and access [Microsoft 365 for business](https://www.microsoft.com/microsoft-365/business). The easiest way to add user accounts is to add them one at a time in the [Microsoft 365 admin center](https://admin.microsoft.com). After you complete this step, your users have Microsoft 365 licenses, sign-in credentials, and Microsoft 365 mailboxes.
 
-> [!TIP]
-> Check out all of our small business content on [Small business help & learning](https://support.microsoft.com/smallbusiness?ocid=SMCNavtoSMBHub).
->
-> Check out [Microsoft 365 small business help](https://www.youtube.com/channel/UCBcPPMQmVe5O3on4v5VKrYA) on YouTube.
-
 ## Before you begin
+
+Make sure that licenses are purchased for users. For more information, see [Buy or remove licenses for a Microsoft business subscription](/microsoft-365/commerce/licenses/buy-licenses).
 
 You must be a license or user admin to add users and assign licenses. For more information, see [About admin roles](../../admin/add-users/about-admin-roles.md).
 
@@ -258,12 +255,18 @@ Your custom view is now included in the custom filters set.
 1. On the **Custom filter** pane:
 
     - To change the filter: edit the conditions, then select **Save**.
-
     - To delete the filter: select the ellipsis (`...`), then select **Delete**.
 
 ## Next steps
 
-When you add a user, Microsoft sends an email notification. The email contains the person's user ID and password so they can sign in to Microsoft 365. Use your normal process for communicating new passwords. Share the [quickstart guide](https://support.microsoft.com/office/7f34c318-e772-46a5-8c0a-ab86661542d1) with your new users to get started. For example, how to [Download and install or reinstall Microsoft 365 or Office 2021 on a PC or Mac](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658) and how to [Set up Microsoft 365 apps and email on a mobile device](https://support.microsoft.com/office/7dabb6cb-0046-40b6-81fe-767e0b1f014f).
+1. When you add a user, Microsoft sends an email notification. The email contains the person's user ID and password so they can sign in to Microsoft 365. 
+
+2. Use your normal process for communicating new passwords. 
+
+3. Share the [quickstart guide](https://support.microsoft.com/office/7f34c318-e772-46a5-8c0a-ab86661542d1) and other resources with your new users to get started. Examples:
+
+   - [Download and install or reinstall Microsoft 365 or Office 2021 on a PC or Mac](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658)
+   - [Set up Microsoft 365 apps and email on a mobile device](https://support.microsoft.com/office/7dabb6cb-0046-40b6-81fe-767e0b1f014f)
 
 ## Related content
 
@@ -271,3 +274,5 @@ When you add a user, Microsoft sends an email notification. The email contains t
 - [Restore a user in Microsoft 365](restore-user.md)
 - [Assign licenses to users](../manage/assign-licenses-to-users.md)
 - [Delete a user from your organization](delete-a-user.md)
+- [Small business help & learning](https://support.microsoft.com/smallbusiness?ocid=SMCNavtoSMBHub)
+- [Microsoft 365 small business help](https://www.youtube.com/channel/UCBcPPMQmVe5O3on4v5VKrYA) (YouTube)
